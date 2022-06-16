@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4efef2c7-5ec1-4ea4-99a9-7e0d08bda7ef" name="Changes" comment="初次提交">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/CDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/MediaPlayer.java" afterDir="false" />
+    <list default="true" id="4efef2c7-5ec1-4ea4-99a9-7e0d08bda7ef" name="Changes" comment="第二次提交">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/HardDaysNight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/Revolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/WhiteAlbum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/CDPlayerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/CDPlayerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/SgtPeppers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaomo/soundsystem/SgtPeppers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/xiaomo/soundsystem/CDPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/xiaomo/soundsystem/CDPlayerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -84,7 +84,7 @@
       <updated>1655193335267</updated>
       <workItem from="1655193337641" duration="1502000" />
       <workItem from="1655273541291" duration="3240000" />
-      <workItem from="1655364236517" duration="5637000" />
+      <workItem from="1655364236517" duration="7023000" />
     </task>
     <task id="LOCAL-00001" summary="初次提交">
       <created>1655276132444</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655276132444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1655377727256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655377727256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="初次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
   </component>
 </project>
